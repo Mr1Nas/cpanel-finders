@@ -4,6 +4,7 @@ import colorama
 os.system("clear")
 os.system("pip install colorama")
 os.system("pip install requests")
+os.system("clear")
 print(colorama.Fore.RED+"                               created by Mr!Nas")
 print(colorama.Fore.YELLOW+"""---------------------------------------------------------------------------------
 ██████████████████████████████████████████████████████████████████████████████████
